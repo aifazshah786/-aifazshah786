@@ -19,12 +19,6 @@
 
 💼 Open to Data Analyst Opportunities  
 
-📍 Pune, Maharashtra, India  
-
-🎓 Sant Gadge Baba Amravati University  
-
----
-
 # 👀 Profile Visitors
 
 <p align="left">
