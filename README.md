@@ -1,43 +1,72 @@
-<h1 align="center">Hi there 👋, I'm Aifaz Shah</h1>
+<h1 align="center">Hi 👋, I'm Aifaz Shah</h1>
 
-<h3 align="center">Data Analyst | SQL | Power BI | Excel | Python | Business Insights</h3>
-
----
-
-# 👨‍💻 About Me
-
-🎓 Data Analyst passionate about transforming raw data into meaningful insights  
-
-📊 Skilled in:
-
-• SQL  
-• Power BI  
-• Excel  
-• Python  
-• Data Visualization  
-• Business Reporting  
-
-💼 Open to Data Analyst Opportunities  
-
-# 👀 Profile Visitors
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aifazshah786&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
-</p>
+<h3 align="center">
+Data Analyst | SQL • Python • Power BI • Excel  
+Turning Data into Actionable Business Insights
+</h3>
 
 ---
 
-# 🏆 GitHub Rank & Achievements
+## 👨‍💻 About Me
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aifazshah786&theme=algolia"/>
-
-</p>
+🎯 Detail-oriented Data Analyst with expertise in data cleaning, transformation, and business intelligence reporting.  
+📊 Strong experience in SQL querying, Python-based analysis, and interactive dashboard development.  
+📈 Focused on solving real-world business problems using data-driven decision making.  
+💼 Open to Data Analyst / Business Intelligence roles.
 
 ---
 
-# 📊 GitHub Stats
+## 🛠️ Technical Skills
+
+### 💻 Programming & Data Analysis
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-purple?logo=pandas)
+![SQL](https://img.shields.io/badge/SQL-MySQL-orange?logo=mysql)
+
+### 📊 Visualization & BI Tools
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel)
+
+### 📌 Core Analytics Skills
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- KPI & Metrics Development  
+- Dashboard Design & Reporting  
+- Business Performance Analysis  
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Credit Card Financial Dashboard
+• Built interactive Power BI dashboard  
+• Analyzed revenue trends and customer behavior  
+• Delivered actionable business insights  
+
+🔗 Repository: https://github.com/aifazshah786/Credit-Card-Financial-Dashboard
+
+---
+
+### 🛒 E-Commerce Sales Analysis
+• Performed Python-based analysis using Pandas & NumPy  
+• Identified customer purchase trends  
+• Generated sales performance reports  
+
+🔗 Repository: https://github.com/aifazshah786/Ecommerce-Sales-Analysis
+
+---
+
+### 📈 Customer Retention & Churn Analysis
+• SQL-based customer retention analysis  
+• Calculated churn rate and repeat customer metrics  
+• Provided business improvement recommendations  
+
+🔗 Repository: https://github.com/aifazshah786/Customer-Retention-Analysis
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -49,96 +78,15 @@
 
 ---
 
-# 🔥 Contribution Streak
+## 🌐 Connect With Me
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aifazshah786&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aifazshah786&theme=tokyo-night"/>
-
----
-
-# 🚀 Featured Projects
-
-## 📊 Credit Card Financial Dashboard
-
-• Built interactive Power BI Dashboard  
-• Analyzed revenue, customer behavior  
-• Generated business insights  
-
-🔗 Link  
-https://github.com/aifazshah786
-
----
-
-## 🛒 Ecommerce Sales Analysis
-
-• Python Data Analysis  
-
-• Customer Insights  
-
-• Sales Trend Analysis  
-
-🔗 Link  
-https://github.com/aifazshah786
-
----
-
-## 📈 Customer Retention Analysis
-
-• SQL Analysis  
-
-• Retention Metrics  
-
-• Business Decision Insights  
-
-🔗 Link  
-https://github.com/aifazshah786
-
----
-
-# 🛠️ Skills
-
-## Programming
-
-![Python](https://img.shields.io/badge/Python-blue)
-
-![SQL](https://img.shields.io/badge/SQL-orange)
-
----
-
-## Tools
-
-![Power BI](https://img.shields.io/badge/PowerBI-yellow)
-
-![Excel](https://img.shields.io/badge/Excel-green)
-
-![Git](https://img.shields.io/badge/Git-black)
-
----
-
-# 🌐 Connect With Me
-
-## LinkedIn
-
+🔗 LinkedIn:  
 https://www.linkedin.com/in/aifaz-shah-236222261/
 
----
-
-## GitHub
-
+🔗 GitHub:  
 https://github.com/aifazshah786
 
----
 
-# ❤️ Support
+## ⭐ Support
 
-If you like my work, please give ⭐ to my repositories
-
+If you find my projects valuable, consider giving them a star ⭐
